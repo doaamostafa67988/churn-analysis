@@ -81,8 +81,3 @@ Based on the subscriber segmentation profiles, the following tailored marketing 
 2. Set up automated A/B testing infrastructure to measure the conversion rates of cluster-specific campaigns.
 3. Build and package a real-time churn prediction endpoint using a FastAPI application loop.
 4. Experiment with deep sequential neural network structures (RNNs/LSTMs) to capture shifting time-series behaviors.
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-print("README.md successfully written.")
